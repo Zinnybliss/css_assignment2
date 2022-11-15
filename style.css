@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(169, 166, 166);
+  }
+  
+  h2 {
+    text-align: center;
+    margin-top: 20px;
+    color: cadetblue;
+  }
+  
+  #ordered-list {
+    height: 35vh;
+    width: 30%;
+    line-height: 32px;
+    color: pink;
+    margin-top: 50px;
+  }
+  
+  #unordered-list {
+    height: 35vh;
+    width: 30%;
+    line-height: 32px;
+    margin: 50px;
+    margin-left: 900px;
+    color: blue;
+  }
+  .likes{
+   color: magenta
+  }
+  .dislikes{
+color: brown;
+  }
